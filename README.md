@@ -15,5 +15,5 @@
 - afadian: [Lucas](https://ifdian.net/a/lucasliu)
 
 
-**My coding skills are very poor. Don't worry about those details:)** 
+**My coding skills are very poor. Don't worry too much about those details:)** 
 
