@@ -1,6 +1,11 @@
 ## Hi ! Here is LucasLiu
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasliu251)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasliu251)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasliu251&theme=catppuccin_mocha )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasliu251&layout=compact&theme=catppuccin_mocha )](https://github.com/anuraghazra/github-readme-stats)
+<!---
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealSeek&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="RealSeek's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langsusername=RealSeek&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=HTML,CSS" /> |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
+--->
+
 ## About myself
 
 - 😋 In most cases, I tend to develop things that I personally desire. I don't enjoy following the crowd.   
