@@ -1,5 +1,6 @@
 ## Hi ! Here is LucasLiu
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasliu251)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasliu251)](https://github.com/anuraghazra/github-readme-stats)
 ## About myself
 
 - 😋 In most cases, I tend to develop things that I personally desire. I don't enjoy following the crowd.   
