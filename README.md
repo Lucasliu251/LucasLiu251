@@ -1,6 +1,6 @@
 ## Hi ! Here is LucasLiu
 
-##About myself
+## About myself
 
 - 😋 In most cases, I tend to develop things that I personally desire. I don't enjoy following the crowd.   
 - 💖 I'm from China,If possible, please communicate with me in Chinese, that makes me ease  
@@ -8,7 +8,7 @@
 - 💻 I am a computer science student currently in university, self-learning Unity, and developing some fun projects.
 - 💼 I'm seeking internship opportunities at an internet company.
 
-##Contact Me
+## Contact Me
 - Tencent QQ: 897131863
 - Discord: LucasLiu
 - Kook: Lucas#0251
