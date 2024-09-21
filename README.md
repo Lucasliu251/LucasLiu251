@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi ! Here is LucasLiu
 
-<!--
-**Lucasliu251/LucasLiu251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About myself
 
-Here are some ideas to get you started:
+- 😋 In most cases, I tend to develop things that I personally desire. I don't enjoy following the crowd.   
+- 🇨🇳 I'm from China,If possible, please communicate with me in Chinese, that makes me ease  
+- 🎮 I personally enjoy game and real good at FPS games in especial CS. And I'm learning for game development
+- 💻 I am a computer science student currently in university, self-learning Unity, and developing some fun projects.
+- 💼 I'm seeking internship opportunities at an internet company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Contact Me
+- Tencent QQ: 897131863
+- Discord: LucasLiu
+- Kook: Lucas#0251
+- afadian: [Lucas](https://ifdian.net/a/lucasliu)
+
+
+**My coding skills are very poor. Don't worry about those details** 
+
