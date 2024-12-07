@@ -19,6 +19,7 @@
 - Discord: LucasLiu
 - Kook: Lucas#0251
 - afadian: [Lucas](https://ifdian.net/a/lucasliu)
+- CQ：BG7KYQ
 
 
 **My coding skills are very poor. Don't worry too much about those details:)** 
